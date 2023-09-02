@@ -9,21 +9,22 @@
 <div id="badges" align="center">
   
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdellatif-336919199/)
-  <a href = "mailto:omarabdellatif5621@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+  <a href = "mailto:omarabdellatif5622@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <div align="center">
-
-   ![pic1.gif](pic1.gif)
+   <img src="pic1.gif" alt="Image">
 </div>
+
 <h2 align="center">👨‍💻 Languages, Frameworks and Tools</h2>
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" width="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" width="40" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" width="40" alt="python logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" width="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" width="40" alt="javascript logo" />
@@ -31,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=java" height="30" width="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" width="40" alt="c logo" />
-  <img width="12" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" width="40" alt="php logo" />
   <img width="12" />
