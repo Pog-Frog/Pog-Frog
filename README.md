@@ -1,80 +1,51 @@
-<h1 align="center">Hi, I'm Omar Abdellatif <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2>Omar Abdellatif</h2>
 
-<div align="center">
-  
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<img src="https://komarev.com/ghpvc/?username=Pog-Frog&label=Profile%20views&color=0e75b6&style=flat" alt="Pog-Frog" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Pog-Frog">
-  
-</div>
-<div id="badges" align="center">
-  
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdellatif-336919199/)
-  <a href = "mailto:omarabdellatif5622@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+<a href="https://www.linkedin.com/in/omar-abdellatif-336919199/">
+<img src="https://img.shields.io/badge/Omar Abdellatif-0077B5?logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:omarabdellatif5622@gmail.com">
+<img src="https://img.shields.io/badge/Omar Abdellatif-D14836?logo=Gmail&logoColor=white"/>
+</a>
 
-<div align="center">
-   <img src="pic1.gif" alt="Image">
-</div>
+### 👨🏻‍💻 &nbsp;About Me
 
-<h2 align="center">👨‍💻 Languages, Frameworks and Tools</h2>
+🎓 &nbsp;A Fullstack developer with a degree in computer engineering.
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" width="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" width="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" width="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" width="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" width="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" width="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" width="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" width="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="30" width="40" alt="powershell logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" width="40" alt="go logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" width="40" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="30" width="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" width="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" width="40" alt="microsoftsqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" width="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" width="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="30" width="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" width="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" width="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" width="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" width="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" width="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" width="40" alt="tailwindcss logo" />
-</div>
+💡 &nbsp;Passionate about exploring new technologies and crafting compelling websites.
 
-## <img src = "./pic2.gif" width = "50px" height="50" > About me
+🚀 &nbsp;Eager to embark on new challenges and contribute to exciting projects.
 
-* Software Engineer specializing in backend development, web applications, with a strong foundation and passion for cybersecurity and machine learning.
-  
-* Ask me about anything, I will be happy to help
+### 🛠 &nbsp;Tech Stack
 
-<div align="center">
-  <a href="https://github.com/Pog-Frog">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pog-Frog&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pog-Frog&layout=compact&langs_count=7&theme=blueberry"/>
-  </a>
-</div>
+![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-05122A?style=flat&logo=Typescript)
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
+![React Router](https://img.shields.io/badge/React_Router-05122A?style=flat&logo=reactrouter)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-05122A?style=flat&logo=Redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-05122A?logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?logo=bootstrap)
+![MUI](https://img.shields.io/badge/MUI-05122A?logo=MUI)
+![Jest](https://img.shields.io/badge/Jest-05122A?style=flat&logo=Jest)
+![Next.JS](https://img.shields.io/badge/Next-05122A?style=flat&logo=nextdotjs)
+![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=PHP)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=PostgreSQL)
+![Prisma](https://img.shields.io/badge/Prisma-05122A?style=flat&logo=Prisma)
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB)
+![Mongoose](https://img.shields.io/badge/Mongoose-05122A?style=flat&logo=Mongoose)
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase)
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=GitHub)
+![Node](https://img.shields.io/badge/Node-05122A?style=flat&logo=nodedotjs)
+![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=Laravel)
+![Express](https://img.shields.io/badge/Express-05122A?style=flat&logo=Express)
+![NPM](https://img.shields.io/badge/NPM-05122A?style=flat&logo=npm)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![ESLint](https://img.shields.io/badge/ESLint-05122A?style=flat&logo=ESLint)
+![Prettier](https://img.shields.io/badge/Prettier-05122A?style=flat&logo=Prettier)
+&nbsp;  
+&nbsp;  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pog-Frog&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
