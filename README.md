@@ -11,9 +11,9 @@
 
 🎓 &nbsp;A Fullstack developer with a degree in computer engineering.
 
-💡 &nbsp;Passionate about exploring new technologies and crafting compelling websites.
+💡 &nbsp;Passionate about crafting robust systems with creative and intuitive interfaces.
 
-🚀 &nbsp;Eager to embark on new challenges and contribute to exciting projects.
+🚀 &nbsp;Eager to embark on new challenges and contribute to open source projects.
 
 ### 🛠 &nbsp;Tech Stack
 
