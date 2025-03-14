@@ -9,12 +9,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;A Fullstack developer with a degree in computer engineering.
-
-💡 &nbsp;Passionate about crafting robust systems with creative and intuitive interfaces.
-
-🚀 &nbsp;Eager to embark on new challenges and contribute to open source projects.
-
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5)
