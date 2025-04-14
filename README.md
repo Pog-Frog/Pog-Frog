@@ -1,10 +1,10 @@
-<h2></h2>
+<h2>Omar Abdellatif</h2>
 
 <a href="https://www.linkedin.com/in/omar-abdellatif-336919199/">
 <img src="https://img.shields.io/badge/Omar Abdellatif-0077B5?logo=Linkedin&logoColor=white"/>
 </a>
-<a href="mailto:omarabdellatif5622@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white"/>
+<a href="mailto:@gmail.com">
+<img src="https://img.shields.io/badge/-D14836?logo=Gmail&logoColor=white"/>
 </a>
 
 ### 👨🏻‍💻 &nbsp;About Me
