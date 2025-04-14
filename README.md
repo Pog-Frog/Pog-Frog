@@ -1,13 +1,19 @@
 <h2></h2>
 
-<a href="https://www.linkedin.com/in/-336919199/">
-<img src="https://img.shields.io/badge/-0077B5?logo=Linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/omar-abdellatif-336919199/">
+<img src="https://img.shields.io/badge/Omar Abdellatif-0077B5?logo=Linkedin&logoColor=white"/>
 </a>
-<a href="mailto:@gmail.com">
-<img src="https://img.shields.io/badge/-D14836?logo=Gmail&logoColor=white"/>
+<a href="mailto:omarabdellatif5622@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white"/>
 </a>
 
 ### 👨🏻‍💻 &nbsp;About Me
+
+🎓 &nbsp;A Fullstack developer with a degree in computer engineering.
+
+💡 &nbsp;Passionate about crafting robust systems with creative and intuitive interfaces.
+
+🚀 &nbsp;Eager to embark on new challenges and contribute to open source projects.
 
 ### 🛠 &nbsp;Tech Stack
 
