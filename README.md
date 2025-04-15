@@ -5,7 +5,7 @@
 </a>
 <a href="mailto:@gmail.com">
 <img src="https://img.shields.io/badge/-D14836?logo=Gmail&logoColor=white"/>
-</a>
+</a><img src="https://komarev.com/ghpvc/?username=Pog-Frog&label=Profile%20views&color=0e75b6&style=flat" alt="Pog-Frog" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
