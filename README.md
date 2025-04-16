@@ -1,9 +1,9 @@
 <h2>Omar Abdellatif</h2>
 
 <a href="https://www.linkedin.com/in/omar-abdellatif-336919199/">
-<img src="https://img.shields.io/badge/Omar Abdellatif-0077B5?logo=Linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linkedin-0077B5?logo=Linkedin&logoColor=white"/>
 </a>
-<a href="mailto:@gmail.com">
+<a href="mailto:omarabdellatif5622@gmail.com">
 <img src="https://img.shields.io/badge/-D14836?logo=Gmail&logoColor=white"/>
 </a><img src="https://komarev.com/ghpvc/?username=Pog-Frog&label=Profile%20views&color=0e75b6&style=flat" alt="Pog-Frog" />
 
