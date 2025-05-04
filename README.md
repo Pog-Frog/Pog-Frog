@@ -1,10 +1,7 @@
 <h2>Omar Abdellatif</h2>
 
-<a href="https://www.linkedin.com/in/omar-abdellatif-336919199/">
-<img src="https://img.shields.io/badge/Linkedin-0077B5?logo=Linkedin&logoColor=white"/>
-</a>
-<a href="mailto:omarabdellatif5622@gmail.com">
-<img src="https://img.shields.io/badge/-D14836?logo=Gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/omar-abdellatif-336919199/"><img src="https://custom-icon-badges.demolab.com/badge/Omar_Abdellatif-0A66C2?logo=linkedin-white&logoColor=white"/></a>
+<a href="mailto:omarabdellatif5622@gmail.com"><img src="https://img.shields.io/badge/omarabdellatif-D14836?logo=Gmail&logoColor=white"/></a>
 </a><img src="https://komarev.com/ghpvc/?username=Pog-Frog&label=Profile%20views&color=0e75b6&style=flat" alt="Pog-Frog" />
 
 ### 👨🏻‍💻 &nbsp;About Me
